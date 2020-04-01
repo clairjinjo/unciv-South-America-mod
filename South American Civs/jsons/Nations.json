@@ -1,22 +1,39 @@
 [
-   {
-    "name": "Argentina",
+	{
+		"name": "Argentina",
 		"leaderName": "Eva Perón",
-		"adjective": ["Argentinian"],
-		"startBias": ["Hill"],
+		"adjective": [
+			"Argentinian"
+		],
+		"startBias": [
+			"Hill"
+		],
 		"preferredVictoryType": "Cultural",
-		
 		"startIntroPart1": "TBA",
 		"startIntroPart2": "TBA",
-		"declaringWar": "I hate to do this, but...you leave me no choice.",
+		"declaringWar": "I hate to do this, but... You leave me no choice.",
 		"attacked": "If I have to protect my people, then I WILL fight back.",
 		"defeated": "Don't cry for me, Argentina... I'll never leave you...",
-		"introduction": "Nice to meet you! I am Eva Perón, helper of the people of Argentina. I Hope we can have peace.",
+		"introduction": "Nice to meet you! I am Eva Perón, helper of the people of Argentina. I hope we can have peace.",
 		"neutralHello": "Hello there!",
 		"hateHello": "Get away.",
 		"tradeRequest": "Do you need anything?",
-		"outerColor": [224,225,20],
-		"innerColor": [255,255,255],
-		"cities": ["BuenosAires","Córdoba","Mendoza","Rosario","LaPlata"]
-    }
+		"outerColor": [
+			224,
+			225,
+			20
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": [
+			"Buenos Aires",
+			"Córdoba",
+			"Mendoza",
+			"Rosario",
+			"La Plata"
+		]
+	}
 ]
